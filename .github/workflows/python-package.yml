@@ -33,7 +33,7 @@ jobs:
         python3 pyKyobo_Geonseol_.py
         python3 pyKyobo_Hansik_.py
         python3 pyKyobo_IIban_.py
-        # python3 pyKyobo_Jegwa_.py
+        python3 pyKyobo_Jegwa_.py
         # python3 pyKyobo_JeongboGineung_.py
         # python3 pyKyobo_JeongboGisa_.py
         # python3 pyKyobo_JeongiGisa_.py
@@ -53,7 +53,7 @@ jobs:
         git add Kyobo/Geonseol/Geonseol_*.json
         git add Kyobo/Hansik/Hansik_*.json
         git add Kyobo/IIban/IIban_*.json
-        # git add Kyobo/Jegwa/Jegwa_*.json
+        git add Kyobo/Jegwa/Jegwa_*.json
         # git add Kyobo/JeongboGineung/JeongboGineung_*.json
         # git add Kyobo/JeongboGisa/JeongboGisa_*.json
         # git add Kyobo/JeongiGisa/JeongiGisa_*.json
