@@ -38,7 +38,7 @@ jobs:
         python3 pyKyobo_JeongboGisa_.py
         python3 pyKyobo_JeongiGisa_.py
         python3 pyKyobo_JeongiSaneop_.py
-        # python3 pyKyobo_Jeppang_.py
+        python3 pyKyobo_Jeppang_.py
         # python3 pyKyobo_Jige_.py
         # python3 pyKyobo_Makeup_.py
         # python3 pyKyobo_Nail_.py
@@ -58,7 +58,7 @@ jobs:
         git add Kyobo/JeongboGisa/JeongboGisa_*.json
         git add Kyobo/JeongiGisa/JeongiGisa_*.json
         git add Kyobo/JeongiSaneop/JeongiSaneop_*.json
-        # git add Kyobo/Jeppang/Jeppang_*.json
+        git add Kyobo/Jeppang/Jeppang_*.json
         # git add Kyobo/Jige/Jige_*.json
         # git add Kyobo/Makeup/Makeup_*.json
         # git add Kyobo/Nail/Nail_*.json
