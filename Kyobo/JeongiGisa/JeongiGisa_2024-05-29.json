@@ -84,16 +84,16 @@
         "price": "13,500"
     },
     {
-        "title": "2024 전기(산업)기사 실기 파이널 특강",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791192689456.jpg",
-        "author": "김상훈",
-        "price": "19,800"
-    },
-    {
         "title": "2024 전기기사 필기 2023~2014",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791192689302.jpg",
         "author": "김상훈",
         "price": "26,100"
+    },
+    {
+        "title": "2024 전기(산업)기사 실기 파이널 특강",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791192689456.jpg",
+        "author": "김상훈",
+        "price": "19,800"
     },
     {
         "title": "시험에 꼭 나오는 필수 전기 공식 및 용어",
