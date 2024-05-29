@@ -31,6 +31,7 @@ jobs:
     - name: Run Python scripts
       run: |
         python3 pyKyobo_Geonseol_.py
+        python3 pyKyobo_Hansik_.py
 
   
     - name: Commits
@@ -38,6 +39,7 @@ jobs:
         git config --global user.email "sdw10195@gmail.com"
         git config --global user.name "seodaewon1"
         git add Kyobo/Geonseol/Geonseol_*.json
+        git add Kyobo/Hansik/Hansik_*.json
 
         git commit -m "차트 수집 완료"
     - name: Push
