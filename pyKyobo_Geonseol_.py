@@ -12,11 +12,17 @@ import json
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"Kyobo/Geonseol/Geonseol_{current_date}.json"
+filename = f"Yes24/Geonseol/Geonseol_{current_date}.json"
+
 
 # 웹드라이버 설치
 options = ChromeOptions()
-options.add_argument("--headless") 
+options.add_argument("--start-maximized")
+options.add_argument("--headless")  # Headless 모드 추가
+options.add_argument("--no-sandbox")  # Sandbox 모드 비활성화
+options.add_argument("--disable-dev-shm-usage")  # /dev/shm 사용 비활성화
+options.add_argument("--disable-gpu")  # GPU 비활성화
+options.add_argument("--window-size=1920x1080")  # 윈도우 크기 설정
 service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 
