@@ -38,7 +38,6 @@ WebDriverWait(browser, 10).until(
 html_source_updated = browser.page_source
 soup = BeautifulSoup(html_source_updated, 'html.parser')
 
-# 데이터 추출
 book_data = []
 
 # 첫 번째 tracks
@@ -56,8 +55,7 @@ for track in tracks:
     
         link_element = track.select_one(".auto_overflow_inner a")  # 링크 요소 가져오기
         href = link_element.get('href') if link_element else None  # href 속성 가져오기
-
-
+    
         book_data.append({
             "title": title,
             "imageURL": image_url,
