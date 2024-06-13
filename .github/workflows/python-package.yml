@@ -34,13 +34,13 @@ jobs:
         python3 pyKyobo_Hansik_.py
         python3 pyKyobo_IIban_.py
         python3 pyKyobo_Jegwa_.py
-        # python3 pyKyobo_JeongboGineung_.py
+        python3 pyKyobo_JeongboGineung_.py
         python3 pyKyobo_JeongboGisa_.py
         python3 pyKyobo_JeongiGisa_.py
         python3 pyKyobo_JeongiSaneop_.py
         python3 pyKyobo_Jeppang_.py
         python3 pyKyobo_Jige_.py
-        # python3 pyKyobo_Makeup_.py
+        python3 pyKyobo_Makeup_.py
         python3 pyKyobo_Nail_.py
         python3 pyKyobo_Pibu_.py
         # python3 pyKyobo_Sobang_.py
