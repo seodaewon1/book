@@ -54,13 +54,13 @@ jobs:
         git add Kyobo/Hansik/Hansik_*.json
         git add Kyobo/IIban/IIban_*.json
         git add Kyobo/Jegwa/Jegwa_*.json
-        # git add Kyobo/JeongboGineung/JeongboGineung_*.json
+        git add Kyobo/JeongboGineung/JeongboGineung_*.json
         git add Kyobo/JeongboGisa/JeongboGisa_*.json
         git add Kyobo/JeongiGisa/JeongiGisa_*.json
         git add Kyobo/JeongiSaneop/JeongiSaneop_*.json
         git add Kyobo/Jeppang/Jeppang_*.json
         git add Kyobo/Jige/Jige_*.json
-        # git add Kyobo/Makeup/Makeup_*.json
+        git add Kyobo/Makeup/Makeup_*.json
         git add Kyobo/Nail/Nail_*.json
         git add Kyobo/Pibu/Pibu_*.json
         # git add Kyobo/Sobang/Sobang_*.json
