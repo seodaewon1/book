@@ -45,6 +45,7 @@ jobs:
         python3 pyKyobo_Pibu_.py
         # python3 pyKyobo_Sobang_.py
 
+        python3 pyAladin_Geonseol.py
   
     - name: Commits
       run : |
@@ -64,6 +65,8 @@ jobs:
         git add Kyobo/Nail/Nail_*.json
         git add Kyobo/Pibu/Pibu_*.json
         # git add Kyobo/Sobang/Sobang_*.json
+
+        git add Aladin/Geonseol/Geonseol_*.json
 
         git commit -m "차트 수집 완료"
     - name: Push
