@@ -61,8 +61,8 @@ for track in tracks:
             "imageURL": image_url,
             "author": author,
             "price" : price,
-            "url
-
+            "url" : href
+        })
 print(book_data)
 
 # 데이터를 JSON 파일로 저장
