@@ -53,11 +53,16 @@ for track in tracks:
         image_element = track.select_one(".img_box .prod_img_load")  # 이미지 요소 가져오기
         image_url = image_element.get('src') if image_element else None  # src에서 이미지 URL 가져오기
     
+        link_element = track.select_one(".auto_overflow_inner a")  # 링크 요소 가져오기
+        href = link_element.get('href') if link_element else None  # href 속성 가져오기
+
+
         book_data.append({
             "title": title,
             "imageURL": image_url,
             "author": author,
-            "price" : price
+            "price" : price,
+            "url" : href
         })
 
 print(book_data)
