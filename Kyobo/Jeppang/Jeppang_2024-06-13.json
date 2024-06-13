@@ -30,6 +30,12 @@
         "price": "17,820"
     },
     {
+        "title": "2024 원큐패스 제과제빵기능사 필기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788927773177.jpg",
+        "author": "이현순",
+        "price": "18,000"
+    },
+    {
         "title": "2024 이기적 제과·제빵기능사 필기+실기(산업기사 포함)",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788931474534.jpg",
         "author": "우경수",
@@ -102,15 +108,15 @@
         "price": "14,400"
     },
     {
-        "title": "2024 제과제빵기능사 실기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791192903828.jpg",
-        "author": "김연진",
-        "price": "23,400"
-    },
-    {
         "title": "2024 New 완전합격 제과·제빵 기능사 필기",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647998.jpg",
         "author": "김창석",
+        "price": "23,400"
+    },
+    {
+        "title": "2024 제과제빵기능사 실기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791192903828.jpg",
+        "author": "김연진",
         "price": "23,400"
     },
     {
@@ -120,22 +126,40 @@
         "price": "23,400"
     },
     {
+        "title": "2024 원큐패스 제과제빵기능사 실기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788927773207.jpg",
+        "author": "김성영",
+        "price": "21,600"
+    },
+    {
         "title": "2024 SD에듀 제과제빵기능사 필기 가장 빠른 합격",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791138357913.jpg",
         "author": "SD상시시험연구소",
         "price": "10,710"
     },
     {
-        "title": "2024 제과제빵기능사 제과제빵산업기사 필기시험 문제집 최단기합격노트",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791186519318.jpg",
-        "author": "정윤용",
-        "price": "18,000"
+        "title": "제과기능장이 집필한",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791138372091.jpg",
+        "author": "권영회",
+        "price": "19,800"
     },
     {
-        "title": "2024 원큐패스 제과제빵기능사 실기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788927773207.jpg",
-        "author": "김성영",
+        "title": "2024 제과제빵기능사 필기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791169670401.jpg",
+        "author": "제과제빵연구회",
+        "price": "16,200"
+    },
+    {
+        "title": "2024 SD에듀 제과제빵기능사 실기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791138370752.jpg",
+        "author": "김경진",
         "price": "21,600"
+    },
+    {
+        "title": "2024 EBS 제과제빵기능사 필기 단기합격",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791166333712.jpg",
+        "author": "김경진",
+        "price": "19,800"
     },
     {
         "title": "2024 SD에듀 제과제빵기능사 필기 가장 빠른 합격",
@@ -150,33 +174,9 @@
         "price": "21,600"
     },
     {
-        "title": "2024 SD에듀 제과제빵기능사 실기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791138370752.jpg",
-        "author": "김경진",
-        "price": "21,600"
-    },
-    {
-        "title": "2024 제과제빵기능사 필기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791169670401.jpg",
-        "author": "제과제빵연구회",
-        "price": "16,200"
-    },
-    {
-        "title": "제과기능장이 집필한",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791138372091.jpg",
-        "author": "권영회",
-        "price": "19,800"
-    },
-    {
-        "title": "2024 EBS 제과제빵기능사 필기 단기합격",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791166333712.jpg",
-        "author": "김경진",
-        "price": "19,800"
-    },
-    {
-        "title": "2023 이기적 제과제빵기능사 필기 기본서",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788931467079.jpg",
-        "author": "오병호",
-        "price": "14,400"
+        "title": "2024 제과제빵기능사 제과제빵산업기사 필기시험 문제집 최단기합격노트",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791186519318.jpg",
+        "author": "정윤용",
+        "price": "18,000"
     }
 ]

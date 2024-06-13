@@ -54,10 +54,10 @@
         "price": "12,600"
     },
     {
-        "title": "2024 지게차 운전기능사 기출문제집",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961298506.jpg",
-        "author": "JH건설기계자격시험연구회",
-        "price": "13,500"
+        "title": "2024 단끝 지게차운전기능사 필기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791169875615.jpg",
+        "author": "박문각 전문자격시험연구소",
+        "price": "9,000"
     },
     {
         "title": "2024 원큐패스 지게차운전기능사 필기 빈출문제 10회",
@@ -66,28 +66,40 @@
         "price": "11,250"
     },
     {
+        "title": "2024 지게차 운전기능사 필기 한방에 합격",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961298544.jpg",
+        "author": "JH건설기계자격시험연구회",
+        "price": "13,500"
+    },
+    {
+        "title": "2024 지게차 운전기능사 기출문제집",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961298506.jpg",
+        "author": "JH건설기계자격시험연구회",
+        "price": "13,500"
+    },
+    {
         "title": "이기적 지게차운전기능사 필기 기본서",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788931472097.jpg",
         "author": "김주승",
         "price": "10,080"
     },
     {
-        "title": "2024 Pass 지게차운전기능사 필기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791158066703.jpg",
-        "author": "건설기계 R&D발전소",
-        "price": "13,500"
-    },
-    {
-        "title": "2024 단끝 지게차운전기능사 필기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791169875615.jpg",
-        "author": "박문각 전문자격시험연구소",
-        "price": "9,000"
-    },
-    {
         "title": "2024 원큐패스 지게차운전기능사 필기",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788927773719.jpg",
         "author": "다락원아카데미",
         "price": "12,600"
+    },
+    {
+        "title": "2024 지게차운전기능사 필기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791158066789.jpg",
+        "author": "GB건설기계자격시험분석연구위원회",
+        "price": "11,700"
+    },
+    {
+        "title": "2024 Pass 지게차운전기능사 필기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791158066703.jpg",
+        "author": "건설기계 R&D발전소",
+        "price": "13,500"
     },
     {
         "title": "2024 SD에듀 답만 외우는 지게차운전기능사 필기 CBT기출문제+모의고사 14회",
@@ -150,33 +162,21 @@
         "price": "9,900"
     },
     {
-        "title": "2024 기발한 지게차운전기능사 필기 총정리문제",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647684.jpg",
-        "author": "김준한",
-        "price": "11,700"
-    },
-    {
         "title": "2025 NCS 기반 지게차 운전기능사 필기 핵심요약 및 기출문제집(8절)",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791192315089.jpg",
         "author": "박상언",
         "price": "13,500"
     },
     {
-        "title": "2024 지게차운전기능사 필기 총정리문제",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791169670562.jpg",
-        "author": "건설기계교육아카데미",
-        "price": "13,500"
+        "title": "2024 기발한 지게차운전기능사 필기 총정리문제",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647684.jpg",
+        "author": "김준한",
+        "price": "11,700"
     },
     {
-        "title": "2024 지게차 운전기능사 필기 한방에 합격",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788961298544.jpg",
-        "author": "JH건설기계자격시험연구회",
-        "price": "13,500"
-    },
-    {
-        "title": "2024 지게차운전기능사 필기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791169670548.jpg",
-        "author": "건설기계교육아카데미",
-        "price": "13,500"
+        "title": "2024년 지게차 운전기능사 총정리문제집",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788964091395.jpg",
+        "author": "건설기계연구회",
+        "price": "11,700"
     }
 ]

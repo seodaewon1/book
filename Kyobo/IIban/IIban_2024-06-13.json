@@ -24,16 +24,16 @@
         "price": "22,500"
     },
     {
-        "title": "2024 SD에듀 답만 외우는 미용사 일반 필기 CBT기출문제+모의고사 14회",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791138370769.jpg",
-        "author": "이진영",
-        "price": "20,700"
-    },
-    {
         "title": "2024 빨리빨리 합격하는 미용사일반 실기시험문제",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647714.jpg",
         "author": "오영애",
         "price": "22,500"
+    },
+    {
+        "title": "2024 적중 100% 합격 미용사 일반 필기시험 총정리문제",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647622.jpg",
+        "author": "안종남",
+        "price": "14,400"
     },
     {
         "title": "2024 미용사 일반 필기 기출복원+모의고사 15회분",
@@ -60,9 +60,15 @@
         "price": "14,490"
     },
     {
-        "title": "2024 적중 100% 합격 미용사 일반 필기시험 총정리문제",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647622.jpg",
-        "author": "안종남",
+        "title": "2024 SD에듀 답만 외우는 미용사 일반 필기 CBT기출문제+모의고사 14회",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791138370769.jpg",
+        "author": "이진영",
+        "price": "20,700"
+    },
+    {
+        "title": "2024 핵심콕콕 정답콕콕 미용사일반 필기시험 3년간 출제문제",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940648278.jpg",
+        "author": "김희주",
         "price": "14,400"
     },
     {
@@ -78,10 +84,22 @@
         "price": "14,490"
     },
     {
-        "title": "2024 핵심콕콕 정답콕콕 미용사일반 필기시험 3년간 출제문제",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940648278.jpg",
-        "author": "김희주",
+        "title": "2024 미용사(일반) 필기 적중모의고사(상시시험대비)",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791169670685.jpg",
+        "author": "김지연",
         "price": "14,400"
+    },
+    {
+        "title": "렛츠겟잇 한권으로 합격하는 미용사 일반 필기",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788965121572.jpg",
+        "author": "손보실",
+        "price": "19,800"
+    },
+    {
+        "title": "2024 한권으로 끝내주는 NCS 미용사 일반 필기시험문제",
+        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647523.jpg",
+        "author": "류은주",
+        "price": "24,300"
     },
     {
         "title": "2024 2주완성 미용사 일반 필기시험문제",
@@ -108,12 +126,6 @@
         "price": "14,400"
     },
     {
-        "title": "2024 한권으로 끝내주는 NCS 미용사 일반 필기시험문제",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788940647523.jpg",
-        "author": "류은주",
-        "price": "24,300"
-    },
-    {
         "title": "미용사 일반 필기시험 최종마무리(8절)",
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788931581232.jpg",
         "author": "한국미용교과교육과정연구회",
@@ -130,12 +142,6 @@
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9791190839181.jpg",
         "author": "박은준",
         "price": "18,000"
-    },
-    {
-        "title": "렛츠겟잇 한권으로 합격하는 미용사 일반 필기",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788965121572.jpg",
-        "author": "손보실",
-        "price": "19,800"
     },
     {
         "title": "미용사 일반 실기시험에 미치다(2021)",
@@ -172,11 +178,5 @@
         "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788956436166.jpg",
         "author": "허정록",
         "price": "23,000"
-    },
-    {
-        "title": "미용사(일반) 필기(2015)",
-        "imageURL": "https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/9788998955106.jpg",
-        "author": "김수진",
-        "price": "12,600"
     }
 ]
